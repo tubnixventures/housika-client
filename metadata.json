@@ -1,0 +1,6 @@
+{
+  "name": "Housika Client Backend",
+  "description": "Production Cloudflare Worker backend for Housika client portal, bookings, atomic property creation, Paystack payments, and scheduled cron jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
